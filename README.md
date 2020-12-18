@@ -9,6 +9,8 @@ Há também os clientes que optam pela compra normal e não estão cadastrados n
 
 2. Com as classes de equivalência definidas, elabore casos de teste que satisfaçam cada classe. Considere utilizar o critério de Análise de Valor Limite para obter casos de teste mais precisos.
 
+3. Desenvolva os testes parametrizados para a funcionalidade considerando os casos de teste definidos.
+
 Método:
 calcularPagamento( String tipoCliente, double precoCompra)
 output( double precoPago )
